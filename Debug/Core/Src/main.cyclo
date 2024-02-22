@@ -1,0 +1,16 @@
+../Core/Src/main.c:126:6:HAL_TIM_IC_CaptureCallback	5
+../Core/Src/main.c:155:6:printf_ENTER	1
+../Core/Src/main.c:173:7:as5047p_spi_send	1
+../Core/Src/main.c:170:5:main	3
+../Core/Src/main.c:178:11:as5047p_spi_read	1
+../Core/Src/main.c:185:7:as5047p_spi_select	1
+../Core/Src/main.c:190:7:as5047p_spi_deselect	1
+../Core/Src/main.c:196:7:as5047p_delay	1
+../Core/Src/main.c:317:6:SystemClock_Config	3
+../Core/Src/main.c:356:13:MX_SPI1_Init	2
+../Core/Src/main.c:394:13:MX_TIM1_Init	8
+../Core/Src/main.c:473:13:MX_TIM2_Init	7
+../Core/Src/main.c:535:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:568:13:MX_GPIO_Init	1
+../Core/Src/main.c:595:1:__io_putchar	1
+../Core/Src/main.c:606:6:Error_Handler	1

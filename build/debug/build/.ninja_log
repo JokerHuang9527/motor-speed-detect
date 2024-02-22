@@ -1,0 +1,25 @@
+# ninja log v5
+2	403	7302777392066095	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Src/as5047p.c.obj	870ac13b7d4b7b6e
+125	462	7302777392647668	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Startup/startup_stm32f103rbtx.s.obj	5386d00dc3b773be
+67	755	7302777395623831	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Src/sysmem.c.obj	6d691160e4abb726
+14	867	7302777396905270	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Src/main.c.obj	5afd92aa7ccbd236
+25	909	7302777397196287	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Src/stm32f1xx_it.c.obj	e8e029d7df5ae3cf
+96	968	7302777397658452	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	76422270300806aa
+109	1047	7302777398021038	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	43e0724bb8653bb4
+82	1181	7302777399896050	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Src/syscalls.c.obj	9de6884f8d949ad0
+406	1277	7302777400923314	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	c00dbafc384c7680
+462	1433	7302777402551419	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	c8a7db8e0c60e58a
+755	1560	7302777403437900	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	d9d0cad5bef0298d
+873	1645	7302777404662286	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	42b3601c872c7876
+968	1727	7302777405475939	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	c58bb7803ab8469f
+910	1770	7302777405607331	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	64fbc979151c7850
+1047	1983	7302777407986298	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj	f84aafdcc55d7179
+1182	2094	7302777409143894	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	f7bae789d00606b1
+1298	2096	7302777409143894	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	4c39c121f3418776
+1433	2311	7302777411291404	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	b2f5776088671b4f
+37	2373	7302777411979640	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Src/stm32f1xx_hal_msp.c.obj	5e0f48c31967b2e0
+50	2385	7302777412135911	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Core/Src/system_stm32f1xx.c.obj	f7dcc88bbfb96d68
+1728	2423	7302777412519543	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	7b6593f59f95b004
+1645	2546	7302777413855172	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	fccb9fbc7358df57
+1561	2594	7302777414355075	CMakeFiles/stm32f103rb_1104_bldc_as5047p.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	adb5571ed05318a
+2594	3095	7302777417883920	stm32f103rb_1104_bldc_as5047p.elf	db44a471ce1fec5f
